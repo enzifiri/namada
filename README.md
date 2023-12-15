@@ -1,1 +1,7 @@
-# namada
+## Namada Trusted Setup - Proof
+
+I've contributed to @namadanetwork #NamadaTrustedSetup at round #264 with the contribution hash 76b02f67bde9087e51d63a3e356959879aa24edb31d8bb6091c585cf5fae144ff148b2b03d61f3fe546bd91d785d322db2d80a9f7e7eaa90bf4e1cdfc5cdf8ca. Let's enable #interchain privacy.
+
+You’ll also find all the metadata of your contribution (ceremony round, contribution hash, public key, timestamps etc.) in "namada_contributior_info_round_264.json"
+
+namada-ts verify-contribution 4f030b85116c1011598d77b8529785383654d10b1a006384470f264ef4719640 76b02f67bde9087e51d63a3e356959879aa24edb31d8bb6091c585cf5fae144ff148b2b03d61f3fe546bd91d785d322db2d80a9f7e7eaa90bf4e1cdfc5cdf8ca 78886fb4e6538712382ccc845f98f2b4d1060943d09dabb9992acf6f3ca410a646c4978523ca7e0cf5b356bd210bbd671699a89c55a573909ce390415d215901
